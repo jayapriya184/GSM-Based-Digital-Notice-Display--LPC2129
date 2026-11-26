@@ -59,7 +59,6 @@ This project provides a wireless notification system with an additional emergenc
 | Software | Purpose |
 |---|---|
 | Keil µVision | Embedded C coding and compilation |
-| Proteus 8.13 | Circuit design and simulation |
 | Flash Magic | Programming the LPC2129 |
 | Embedded C | Microcontroller programming |
 | UART | Serial communication |
